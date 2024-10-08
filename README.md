@@ -13,6 +13,9 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick
 git clone https://github.com/Galaxia-Gaming-Studios/CyberPhoenix-Bot-MD
 ```
 ```bast
+cd CyberPhoenix-Bot-MD
+```
+```bast
 npm install
 ```
 ```bast
